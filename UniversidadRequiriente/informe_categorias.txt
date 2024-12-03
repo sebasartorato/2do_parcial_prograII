@@ -1,0 +1,12 @@
+Categoria: proteccion -> 1 recursos
+Categoria: clima -> 1 recursos
+Categoria: fantasia -> 1 recursos
+Categoria: argentina -> 1 recursos
+Categoria: seguridad -> 1 recursos
+Categoria: boca -> 1 recursos
+Categoria: economia -> 1 recursos
+Categoria: actualidad -> 1 recursos
+Categoria: bienestar -> 1 recursos
+Categoria: entretenimiento -> 1 recursos
+Categoria: cuentos -> 1 recursos
+Categoria: ficcion -> 1 recursos
